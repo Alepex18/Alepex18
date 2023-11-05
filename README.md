@@ -1,3 +1,3 @@
 - Hi, I’m @Alepex18
 - 👀 I’m interested in gamedev 
-- 🌱 I’m currently learning c++ and java
+- 🌱 I’m currently learning Python
