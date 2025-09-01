@@ -1,3 +1,3 @@
 - Hi, I’m @Alepex18
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Spring Boot
